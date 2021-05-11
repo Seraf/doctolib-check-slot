@@ -1,0 +1,16 @@
+{
+  "name": "doctolib-check-slot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seraf",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "axios": "^0.21.1"
+  }
+}
